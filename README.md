@@ -5,7 +5,7 @@ Full-Stack Developer • Mobile Engineer • Founder
 </h3>
 
 <p align="center">
-Building scalable digital products with Flutter, Next.js, Node.js, DevOps, and modern cloud infrastructure.
+Building scalable digital products with Flutter, Swift, Kotlin, Next.js, Node.js, DevOps, and modern cloud infrastructure.
 </p>
 
 ---
@@ -17,7 +17,9 @@ I'm a software developer and tech founder passionate about building high-perform
 I specialize in:
 
 - 📱 Flutter Mobile Development
-- 🌐 Next.js & Modern Frontend Engineering
+- � Native iOS Development (Swift)
+- 🤖 Native Android Development (Kotlin)
+- �🌐 Next.js & Modern Frontend Engineering
 - ⚙️ Node.js Backend Systems
 - 🗄️ Database Architecture & Optimization
 - ☁️ DevOps & Cloud Infrastructure
@@ -31,6 +33,8 @@ Currently building innovative digital solutions at **Clouds Technologies Innovat
 
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Frontend
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -56,6 +60,7 @@ Currently building innovative digital solutions at **Clouds Technologies Innovat
 - Building scalable SaaS products
 - AI-powered business tools
 - Mobile-first experiences
+- Native iOS & Android app development
 - Startup growth & product strategy
 - Cloud-native infrastructure
 
