@@ -15,11 +15,10 @@ Building scalable digital products with Flutter, Swift, Kotlin, Next.js, Node.js
 I'm a software developer and tech founder passionate about building high-performance web and mobile applications with clean architecture and exceptional user experience.
 
 I specialize in:
-
+- �🌐 Next.js & Modern Frontend Engineering
 - 📱 Flutter Mobile Development
 - � Native iOS Development (Swift)
 - 🤖 Native Android Development (Kotlin)
-- �🌐 Next.js & Modern Frontend Engineering
 - ⚙️ Node.js Backend Systems
 - 🗄️ Database Architecture & Optimization
 - ☁️ DevOps & Cloud Infrastructure
@@ -31,14 +30,15 @@ Currently building innovative digital solutions at **Clouds Technologies Innovat
 
 ## 🛠️ Tech Stack
 
+### Frontend
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Frontend
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
